@@ -1,0 +1,19 @@
+/* Radnika Condensed */
+@font-face {
+    font-family: 'Radnika';
+    src: url('radnika-condensed-webfont.woff2') format('woff2'),
+         url('radnika-condensed-webfont.woff') format('woff'),
+         url('radnika-condensed-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Radnika Condensed Medium */
+@font-face {
+    font-family: 'Radnika Condensed';
+    src: url('radnika-mediumcondensed-webfont.woff2') format('woff2'),
+         url('radnika-mediumcondensed-webfont.woff') format('woff'),
+         url('radnika-mediumcondensed-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}

@@ -1,0 +1,3 @@
+$(function() {
+    imageModal('a.lightbox');
+});
